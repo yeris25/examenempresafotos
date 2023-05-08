@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    align-items: center;
+    height: 95%;
+    width: 60%;
+    
+}
+
+.fondo{
+    height: 100%;
+    width: 100%;
+    
+}
